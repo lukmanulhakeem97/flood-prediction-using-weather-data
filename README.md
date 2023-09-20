@@ -13,6 +13,9 @@ methods and the potential of machine learning algorithms to aid in timely evacua
 measures, resource allocation, and effective disaster management, thereby minimizing the
 loss of life and property in flood-prone regions like Kerala.
 
+## Workflow
+![Alt Text](URL)
+
 ##  1. Data Sources
 We utilized two main data sources for our study: the Open Meteo dataset and a
 Kaggle dataset. The Open Meteo dataset provided us with daily weather reports for the

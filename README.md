@@ -13,8 +13,7 @@ methods and the potential of machine learning algorithms to aid in timely evacua
 measures, resource allocation, and effective disaster management, thereby minimizing the
 loss of life and property in flood-prone regions like Kerala.
 
-## Workflow
-![Alt Text](URL)
+![Workflow](./workflow.png)
 
 ##  1. Data Sources
 We utilized two main data sources for our study: the Open Meteo dataset and a
@@ -69,3 +68,5 @@ completely correctly classified. Since our model is for predicting a disaster, w
 more on improving the recall matrix in order to minimize miss-classification of positive
 labels as negative. Our model was able to achieve a recall of 0.90. This improvement is
 achieved by applying balancing on model training data.
+
+[Link Text](URL)
